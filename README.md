@@ -1,7 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Danilo</h1>
+<h3 align="center"><a href="https://danilo.del-busso.com">danilo.del-busso.com</a></h3>
 <p align="center">
-<a href='https://www.danilo.del-busso.com'>
-  <img width="70%" src='https://raw.githubusercontent.com/danilo-delbusso/danilo-delbusso/master/intro.gif'/>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=danilo-delbusso&show_icons=true'/>
-</a>
+    <img src="https://github-profile-trophy.vercel.app/?username=danilo-delbusso&no-bg=true&row=1" alt="danilo-delbusso" />
 </p>
